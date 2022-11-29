@@ -1,0 +1,3 @@
+digraph grafica{
+rankdir=LR;size="8,5"node [shape = doublecircle, color = blue]; U;node [shape = circle];
+W->E [ label = "b" ];E->R [ label = "$" ];T->Y [ label = "c" ];}

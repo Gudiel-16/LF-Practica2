@@ -1,0 +1,15 @@
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.exe.config
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.exe
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.pdb
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.xml
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.Form1.resources
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.Resources.resources
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.vbproj.GenerateResource.Cache
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.exe
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.xml
+c:\users\gudiel\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.pdb
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.vbprojResolveAssemblyReference.cache
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.exe.manifest
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\bin\Debug\Practica2_201404278.application
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.exe.manifest
+C:\Users\GUDIEL\documents\visual studio 2013\Projects\Practica2_201404278\Practica2_201404278\obj\Debug\Practica2_201404278.application

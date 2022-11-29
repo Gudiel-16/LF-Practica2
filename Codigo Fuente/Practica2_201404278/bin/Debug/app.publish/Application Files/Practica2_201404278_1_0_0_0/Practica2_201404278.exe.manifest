@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Practica2_201404278.exe" version="1.0.0.0" publicKeyToken="8920e1e2758dc549" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Practica2_201404278" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Practica2_201404278.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Practica2_201404278.exe" size="76288">
+      <assemblyIdentity name="Practica2_201404278" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IhYKKz/xm72e2eq40pc8FwHKjJih4M9pIm3eOB94nx0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Practica2_201404278.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GUDIEL-PC\GUDIEL" issuerKeyHash="c16b4bb96c7636ba6f40b7d63cd7d2afe34ce880" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>k+WWUaUXiGrETV8+BnxsFsGzv62Pd+ji22WJKG9vP2U=</DigestValue></Reference></SignedInfo><SignatureValue>t/gguPkxWO+bZcaBW+ptG8+4gxf4yziC70C596zjurGj62pXMYe31mospbU76IAdt7UEKu1qqOd1CjmxutSgGrrE2cZnhaeVZRw7lsBCbH44gNcPADDcl+be0CbM4sbP/zzmhs9F8b68H2i7LExCfE/yZ+c8qVIt1PcTpr41LTg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wjcCq9DZvoGGIAvFw5GLki8n0JsdROJJeF7o0OzAfR6JJnufYwgqN29YTw9H16B/cN2Nj9OIIP5/VDAWvy7oc+ALro28zlMM8KxJvpywxj1rpra/nHBkGRkiCeqVNxOgPBaclCigTktwBmI9EbAKS+LJr7nFy3Wen8TB8oMFF40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="653f6f6f288965dbe2e8778fadbfb3c1166c7c063e5f4dc46a8817a55196e593" Description="" Url=""><as:assemblyIdentity name="Practica2_201404278.exe" version="1.0.0.0" publicKeyToken="8920e1e2758dc549" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GUDIEL-PC\GUDIEL</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Km0wKpo7QKMzSHl92U+dKG1aJKFbglyDOWjR/wwXZRw=</DigestValue></Reference></SignedInfo><SignatureValue>ChcZ4yMM/25mAkCCpDqp8/n+ZGIL6CsT3+mQsU1+KpHSU7hwJtwoyIomLCMT9DlT/TLiZu4rcah2TNsGndUH2COmyCq8qOgeeWR7wtpniQUzYaj7tcHAAaCucPjBQHV/G3ua4RHcIixE1+DpHHaDCAQgfnlhwmBVVYs2uxN8eeI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wjcCq9DZvoGGIAvFw5GLki8n0JsdROJJeF7o0OzAfR6JJnufYwgqN29YTw9H16B/cN2Nj9OIIP5/VDAWvy7oc+ALro28zlMM8KxJvpywxj1rpra/nHBkGRkiCeqVNxOgPBaclCigTktwBmI9EbAKS+LJr7nFy3Wen8TB8oMFF40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQb23T1PoJJL9Da5DPOaMqizANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAARwBVAEQASQBFAEwALQBQAEMAXABHAFUARABJAEUATDAeFw0xODA5MjIwMjM2NTRaFw0xOTA5MjIwODM2NTRaMCsxKTAnBgNVBAMeIABHAFUARABJAEUATAAtAFAAQwBcAEcAVQBEAEkARQBMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCNwKr0Nm+gYYgC8XDkYuSLyfQmx1E4kl4XujQ7MB9Hokme59jCCo3b1hPD0fXoH9w3Y2P04gg/n9UMBa/Luhz4AuujbzOUwzwrEm+nLDGPWumtr+ccGQZGSIJ6pU3E6A8FpyUKKBOS3AGYj0RsApL4smvucXLdZ6fxMHygwUXjQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBADNqcCFhmRfidpavORkkf/EB5bEQSrjdSa4byCOTg3pkRXKXXqEOslW9kk1XL0yTIPJKjdrk0Dl1zrTFrHPu3nrux74lcSWaVxJyzp7cM24NkLxvn5Fu1zEVyshBdLgxxlilvfJCd9zvRN/NSO8JbucHLjV4B4Xbl5VBTIzbDXUX</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
